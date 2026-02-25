@@ -2,7 +2,7 @@ class Tabpilot < Formula
   desc "AI-powered Safari tab command center for your macOS menu bar"
   homepage "https://github.com/scasella/TabPilot"
   url "https://github.com/scasella/TabPilot/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 ""  # Updated after release tag is created
+  sha256 "72f3483d02e1f8561a1e3bfafe94838fcd557e66b09fc3dbb705beb070503422"
   license "MIT"
 
   depends_on :macos
