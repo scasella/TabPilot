@@ -61,7 +61,20 @@ TabPilot makes your tab collection instantly comprehensible.
 
 ## Install
 
-### Quick start (build from source)
+### Homebrew (recommended)
+
+```bash
+brew tap scasella/tap
+brew install tabpilot
+open $(brew --prefix)/opt/tabpilot/TabPilot.app
+```
+
+Optionally link to Applications:
+```bash
+ln -sf $(brew --prefix)/opt/tabpilot/TabPilot.app /Applications/TabPilot.app
+```
+
+### Build from source
 
 ```bash
 git clone https://github.com/scasella/TabPilot.git
