@@ -9,7 +9,11 @@ class Tabpilot < Formula
   depends_on xcode: ["15.0", :build]
 
   def install
-    system "swiftc", "-parse-as-library", "-O", "-o", "TabPilot", "TabPilot.swift"
+    # -disable-sandbox allows Swift macro plugins (@Observable) to run
+    # inside Homebrew's sandboxed build environment
+    system "xcrun", "swiftc", "-parse-as-library", "-O",
+           "-Xfrontend", "-disable-sandbox",
+           "-o", "TabPilot", "TabPilot.swift"
 
     # Create .app bundle
     app_dir = prefix/"TabPilot.app/Contents"
