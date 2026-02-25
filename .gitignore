@@ -1,0 +1,8 @@
+# Build artifacts
+TabPilot.app/
+TabPilot
+*.o
+*.dSYM/
+
+# macOS
+.DS_Store
