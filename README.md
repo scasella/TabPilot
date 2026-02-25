@@ -65,14 +65,11 @@ TabPilot makes your tab collection instantly comprehensible.
 
 ```bash
 brew tap scasella/tap
-brew install tabpilot
-open $(brew --prefix)/opt/tabpilot/TabPilot.app
+brew install --cask tabpilot
+open /Applications/TabPilot.app
 ```
 
-Optionally link to Applications:
-```bash
-ln -sf $(brew --prefix)/opt/tabpilot/TabPilot.app /Applications/TabPilot.app
-```
+The app is signed with Developer ID and notarized by Apple — no Gatekeeper warnings.
 
 ### Build from source
 
