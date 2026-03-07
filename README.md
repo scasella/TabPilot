@@ -6,11 +6,9 @@ See all your tabs organized by domain or AI-detected topics, track tab age, find
 
 ![TabPilot main view](screenshots/02-all-tabs.png)
 
-## The Problem
+## Why I Built This
 
-You have 60+ Safari tabs open. Finding the right one means scanning window after window or trying to remember where something was. Safari offers no concept of "when did I open this?" or "which of these are duplicates?" and no way to semantically group tabs by topic.
-
-TabPilot makes your tab collection instantly comprehensible.
+I had 80+ Safari tabs open and no way to make sense of them. Safari doesn't track when you opened a tab, doesn't detect duplicates, and has no concept of grouping by topic. TabPilot gives me a live census in the menu bar, age tracking that persists across restarts, duplicate detection, and AI-powered clustering. It turns tab chaos into something I can actually manage.
 
 ## Features
 
