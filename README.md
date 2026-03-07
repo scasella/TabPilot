@@ -1,6 +1,6 @@
 # TabPilot
 
-**AI-powered Safari tab command center for your menu bar.**
+**Safari tab command center powered by Codex App Server for your menu bar.**
 
 See all your tabs organized by domain or AI-detected topics, track tab age, find duplicates, and manage tab overload — without leaving the menu bar.
 
@@ -8,7 +8,7 @@ See all your tabs organized by domain or AI-detected topics, track tab age, find
 
 ## Why I Built This
 
-I had 80+ Safari tabs open and no way to make sense of them. Safari doesn't track when you opened a tab, doesn't detect duplicates, and has no concept of grouping by topic. TabPilot gives me a live census in the menu bar, age tracking that persists across restarts, duplicate detection, and AI-powered clustering. It turns tab chaos into something I can actually manage.
+I had 80+ Safari tabs open and no way to make sense of them. Safari doesn't track when you opened a tab, doesn't detect duplicates, and has no concept of grouping by topic. TabPilot gives me a live census in the menu bar, age tracking that persists across restarts, duplicate detection, and Codex-powered clustering. It turns tab chaos into something I can actually manage.
 
 ## Features
 
