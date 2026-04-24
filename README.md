@@ -1,6 +1,6 @@
 # TabPilot
 
-**Safari tab command center powered by Codex App Server for your menu bar.**
+**Safari tab manager for 100+ tabs, with optional local AI clustering.**
 
 See all your tabs organized by domain or AI-detected topics, track tab age, find duplicates, and manage tab overload — without leaving the menu bar.
 
