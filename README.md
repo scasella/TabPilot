@@ -1,6 +1,6 @@
 # TabPilot
 
-**Safari tab manager for 100+ tabs, with optional local AI clustering.**
+**Safari tab manager for 100+ tabs, with optional AI clustering via a Codex app server (tab titles and URLs go to an OpenAI-hosted model).**
 
 See all your tabs organized by domain or AI-detected topics, track tab age, find duplicates, and manage tab overload — without leaving the menu bar.
 
